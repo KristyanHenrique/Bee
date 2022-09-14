@@ -14,4 +14,4 @@ VALUES
   (5,	'Chair',	3000,	210.64),
   (6,	'Single bed',	750,	99);
 
-SELECT id,name from products where price < 10 or price >100
+SELECT id,name from products where price < 10 or price >100;
