@@ -9,13 +9,8 @@ import java.io.IOException;
 public class Main {
  
     public static void main(String[] args) throws IOException {
- 
-        /**
-         * Escreva a sua solução aqui
-         * Code your solution here
-         * Escriba su solución aquí
-         */
- Scanner sc = new Scanner(System.in);
+
+        Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();
 		int b = sc.nextInt();
 		a=a*b;
